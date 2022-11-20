@@ -9,7 +9,7 @@ This project challenged us to obtain data from an external website using web-scr
 	> This notebook contains the all the answers the assignment, in form of code and comments. It start answering from question 1 to 7, including the bonus question, except for Command Line question whose answer is in a separated file.
 
 2. __`CommandLine.sh`__: 
-	> The script that answers the command line question
+	> The script that answers the command line question.
 
 ## Other informations
 Since it was not showing, here is the output plot from point 4:
